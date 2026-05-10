@@ -68,6 +68,11 @@ main article h2{
      font-style: italic;
 }
 
+main article figcaption{
+margin-top: 15px;
+
+}
+
 
 /* sidebar */
 aside{background-color: #908f8f;
