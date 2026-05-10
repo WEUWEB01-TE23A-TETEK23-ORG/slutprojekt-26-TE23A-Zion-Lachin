@@ -21,6 +21,17 @@ body{ font-family: "Merriweather", serif;
     background-attachment: fixed;
     
 }
+
+body button{
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 5px;
+    color: #704949;
+    background-color: #908f8f;
+
+}
+
+
 .kontainer{ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 width: 1000px;
 margin: auto;
@@ -65,7 +76,8 @@ border: 1px solid #704949;
 main article h2{
     margin-bottom: 30px;
     margin-top: 30px;
-     font-style: italic;
+    font-style: italic;
+    margin-left: 50px;
 }
 
 main article figcaption{
